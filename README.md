@@ -23,12 +23,11 @@
         width="24px" height="24px"/>
 </a>
 
-<a href="https://github.com/andresPalmaB">
-    <img align="left" src="img/github.png" alt="Icon fo Github" 
+<a href="https://github.com/andresPalmaB/andresPalmaB/blob/main/docs/CV_Andres_Palma.pdf">
+    <img align="left" src="img/curriculum-vitae.png" alt="Icon fo CV"
         width="24px" height="24px"/>
 </a>
 
-[![Icon of Corriculum vitae](img/curriculum-vitae.png)](docs/CV_Andres_Palma.pdf)
-
 ---
+
 
