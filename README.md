@@ -49,9 +49,16 @@
 ![SpringBoot](https://img.shields.io/badge/Tools-SpringBoot-%6DB33F?style=flat&logo=springboot&logoColor=white)
 
 #### DataBase
-![MySQL](https://img.shields.io/badge/DB-MySQL-%4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/DB-MySQL-darkblue?style=flat&logo=mysql&logoColor=white)
 
 #### Frontend
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-%F7DF1E?style=flat&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML5-%E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Style-CSS-%1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/Code-HTML5-red?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?style=flat&logo=css3&logoColor=white)
+
+#### Aditional Tools
+![Git](https://img.shields.io/badge/Tool-Git-red?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-gray?style=flat&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Tool-Railway-black?style=flat&logo=railway&logoColor=white)
+![Swagger](https://img.shields.io/badge/Tool-Swagger-green?style=flat&logo=swagger&logoColor=white)
+
