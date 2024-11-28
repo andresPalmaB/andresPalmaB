@@ -13,7 +13,7 @@
         width="24px" height="24px"/>
 </a>
 
-<a href="palmabustosandres@gmail.com">
+<a href="mailto:palmabustosandres@gmail.com">
     <img align="left" src="img/gmail.png" alt="Icon fo Gmail" 
         width="24px" height="24px"/>
 </a>
