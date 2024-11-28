@@ -1,16 +1,34 @@
-## Hi there 👋
+<center>
+    <h1 align="center">
+        Hi there, I'm <a href="">andresPalmaB</a>👋
+    </h1>
+</center>
 
-<!--
-**andresPalmaB/andresPalmaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Background of readme](img/Developer_Backend.png)
 
-Here are some ideas to get you started:
+## Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/andrespalmab/">
+    <img align="left" src="img/linkedin.png" alt="Andres Palma Bustos | LinkedIn" 
+        width="24px" height="24px"/>
+</a>
+
+<a href="palmabustosandres@gmail.com">
+    <img align="left" src="img/gmail.png" alt="Icon fo Gmail" 
+        width="24px" height="24px"/>
+</a>
+
+<a href="https://github.com/andresPalmaB">
+    <img align="left" src="img/github.png" alt="Icon fo Github" 
+        width="24px" height="24px"/>
+</a>
+
+<a href="https://github.com/andresPalmaB">
+    <img align="left" src="img/github.png" alt="Icon fo Github" 
+        width="24px" height="24px"/>
+</a>
+
+[![Icon of Corriculum vitae](img/curriculum-vitae.png)](docs/CV_Andres_Palma.pdf)
+
+---
+
