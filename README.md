@@ -28,6 +28,30 @@
         width="24px" height="24px"/>
 </a>
 
----
+</br>
 
+## About me
 
+- Computer Engineering Student.
+- Labor Technician in Computer Systems
+- Knowledge of Java for API development.
+- Database management.
+- JavaScript experience, HTML and CSS
+- Implementation of business logic.
+- Constantly updated on new technologies and methods.
+- Oriented to offer practical and effective solutions in environments dynamic.
+
+## Skills
+
+#### Backend
+![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/FrameWork-Spring-%6DB33F?style=flat&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Tools-SpringBoot-%6DB33F?style=flat&logo=springboot&logoColor=white)
+
+#### DataBase
+![MySQL](https://img.shields.io/badge/DB-MySQL-%4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-%F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/Code-HTML5-%E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS-%1572B6?style=flat&logo=css&logoColor=white)
